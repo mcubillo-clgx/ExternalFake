@@ -1,3 +1,6 @@
 [submodule "ImageViewerFake"]
 	path = ImageViewerFake
 	url = https://github.com/mcubillo-clgx/ImageViewerFake.git
+[submodule "Gaar360V2UXFake"]
+	path = Gaar360V2UXFake
+	url = https://github.com/mcubillo-clgx/Gaar360V2UXFake.git
